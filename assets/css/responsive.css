@@ -14,7 +14,7 @@
 	09. screen width less than 600px  ( Medium Screen / Mobile )
 	10. screen width less than 500px  ( Small Screen / Mobile )
 	11. screen width less than 370px  ( Smaller Screen / Mobile )
-	
+
 ====================================================== */
 
 
@@ -157,10 +157,10 @@
 	.wcu-thumb-wrap {
 	    margin-bottom: 50px;
 	}
- 
+
 	.what-we-do-v2 .what-we-do-cards {
 		padding: 0 10px 20px 10px;
-		margin-bottom: 30px;	
+		margin-bottom: 30px;
 	}
 
 	.what-we-do-v2 .row div[class^="col-"]:nth-child(2n+2) .what-we-do-cards:after {
@@ -274,7 +274,7 @@
 	.single-imodule .title-four {
 		font-size: 16px;
 	}
-	
+
 	.what-we-do-v3 .single-imodule {
 	    padding: 0px;
 	}
@@ -414,7 +414,7 @@
 	.all-post-page .banner-header {
 		min-height: auto;
 	}
-	
+
 	.blog-page .banner-header .section-common-space {
 	    padding-top: 142px;
 	    padding-bottom: 85px;
@@ -690,7 +690,7 @@
 		font-size: 11px;
 	}
 	.post-meta span {
-		padding: 0 5px; 
+		padding: 0 5px;
 	}
 	.item-description {
 		max-width: 100%;

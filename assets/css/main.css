@@ -12,8 +12,8 @@
     08. Clients Styles
     09. Newsletter Styles
     10. Pricing Table Styles
-    11. Tweets Styles 
-    12. Contact Styles 
+    11. Tweets Styles
+    12. Contact Styles
     13. Map Styles
 
 ====================================================== */
@@ -1420,7 +1420,7 @@ div.tparrows.tp-rightarrow:before {
   padding: 0 30px 40px;
 }
 /* ====================================================
-    Tweets Styles 
+    Tweets Styles
 =======================================================*/
 .twitter-bg {
   background-image: url("../../img/banner/twiiter_bg.jpg");
@@ -1492,7 +1492,7 @@ div.tparrows.tp-rightarrow:before {
   font-size: 16px;
 }
 /* ====================================================
-    Contact Styles 
+    Contact Styles
 =======================================================*/
 .contact-info-start .section-common-space {
   padding-right: 70px;
@@ -1747,4 +1747,33 @@ div.tparrows.tp-rightarrow:before {
   width: 100%;
   bottom: 9px;
   left: 0;
+}
+
+
+/*PERSONAL CHANGES*/
+
+#bg {
+  position: fixed;
+  top:-50%;
+  left:-50%;
+  width:200%;
+  height:200%;
+}
+#bg img {
+  position: absolute;
+  z-index: 3;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  width: 50%;
+}
+#bg h1 {
+  z-index: 4;
+  position: absolute;
+  padding-left: 500px;
+  color:black;
+
+
 }
