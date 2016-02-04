@@ -564,10 +564,10 @@ div.tparrows.tp-rightarrow:before {
   background: #ccc;
 }
 .matx-service-tabbar .mdl-tabs__tab.is-active i {
-  color: #ff5252;
+  color: #378B2E;
 }
 .matx-service-tabbar .mdl-tabs__tab.is-active:after {
-  background: #ff5252 !important;
+  background: #378B2E !important;
 }
 .animated.animateSlow {
   -webkit-animation-duration: .8s;
@@ -877,7 +877,7 @@ div.tparrows.tp-rightarrow:before {
 }
 .shot-count-inner .mdl-button--fab:focus:not(:active),
 .shot-count-inner .mdl-button--raised:focus:not(:active) {
-  background: #ff5252;
+  background: #378B2E;
   color: #fff;
 }
 .shot-count-inner i {
@@ -1768,12 +1768,4 @@ div.tparrows.tp-rightarrow:before {
   bottom: 0;
   margin: auto;
   width: 50%;
-}
-#bg h1 {
-  z-index: 4;
-  position: absolute;
-  padding-left: 500px;
-  color:black;
-
-
 }
